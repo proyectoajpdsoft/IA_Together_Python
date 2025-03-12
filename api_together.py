@@ -17,7 +17,7 @@ def preguntarIA (petCliente, mensaje):
     return respuestaCompleta
 
 # Cargamos la API de Together pasando el API Key
-petCliente = Together(api_key="dcb7a0ccbe698d2bdd17fe7f0d28bf12105384e3f4a723c3d385a94bde663b86")
+petCliente = Together(api_key="dcb7a0ccb...84...6")
 
 # Definimos una lista de preguntas y respuestas, para poder hacer varias
 preguntas = []
